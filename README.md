@@ -1,8 +1,5 @@
-Below is a rewritten `README.md` file tailored to the provided `digitalsignbot` code. It reflects the functionality, setup instructions, and usage details based on the Python script you shared.
 
----
-
-# DigitalSignBot
+# DigitalSign
 
 DigitalSignBot is a Python-based desktop application that allows you to digitally sign your documents using an RSA key-pair and SHA-512 hashing algorithm. The application features a user-friendly graphical interface built with `tkinter` and leverages cryptographic libraries to generate keys, sign files, and verify signatures.
 
