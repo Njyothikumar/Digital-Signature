@@ -95,14 +95,6 @@ Install the dependencies using the `requirements.txt` file (see [Installation](#
 - **Signing**: Signs the hash with the private key using `pkcs1_15` from `Crypto.Signature`.
 - **Verification**: Verifies the signature against the hash using the public key.
 
----
-
-## Screenshots
-
-*(You can add screenshots here by capturing the app in action and linking them, e.g.:)*
-- Key Generation Page: `[Insert screenshot link]`
-- File Signing Page: `[Insert screenshot link]`
-- Verification Result: `[Insert screenshot link]`
 
 ---
 
